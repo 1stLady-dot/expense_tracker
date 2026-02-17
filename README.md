@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a mini mobile application development project that helps to check the user's expenses. It is my fourth mobile app project.
 
 A few resources to get you started if this is your first Flutter project:
 
